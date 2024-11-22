@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "LIU HAOYANG"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         :  "it"  
+  bio              : "I don't konw anything"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lhy200415@icloud.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
