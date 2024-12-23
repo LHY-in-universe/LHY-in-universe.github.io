@@ -202,6 +202,7 @@ incremental: false
 kramdown:
   input: GFM
   math_engine: mathjax
+  
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -209,6 +210,11 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+mathjax:
+  enable: true
+  config: "TeX-AMS-MML_HTMLorMML"
+  inlineMath: [["$", "$"]]  # 使用 $...$ 来表示行内公式
+  displayMath: [["$$", "$$"]]  # 使用 $$...$$ 来表示块级公式
 
 
 # These settings control the types of collections used by the template
